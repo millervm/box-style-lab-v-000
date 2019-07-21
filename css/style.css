@@ -24,6 +24,7 @@ h4 {
 }
 
 img {
+  box-sizing: border-box;
   border: 1px solid;
 }
 
